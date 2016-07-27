@@ -12,6 +12,7 @@
 		BDCA74291D48308800886312 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDCA74271D48308800886312 /* Main.storyboard */; };
 		BDCA742B1D48308800886312 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDCA742A1D48308800886312 /* Assets.xcassets */; };
 		BDCA742E1D48308800886312 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDCA742C1D48308800886312 /* LaunchScreen.storyboard */; };
+		BDCA74361D4833E600886312 /* Indian_Cat_pic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BDCA74351D4833E600886312 /* Indian_Cat_pic.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BDCA742A1D48308800886312 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDCA742D1D48308800886312 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDCA742F1D48308800886312 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDCA74351D4833E600886312 /* Indian_Cat_pic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Indian_Cat_pic.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				BDCA74251D48308800886312 /* ViewController.swift */,
 				BDCA74271D48308800886312 /* Main.storyboard */,
 				BDCA742A1D48308800886312 /* Assets.xcassets */,
+				BDCA74351D4833E600886312 /* Indian_Cat_pic.jpg */,
 				BDCA742C1D48308800886312 /* LaunchScreen.storyboard */,
 				BDCA742F1D48308800886312 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				BDCA742E1D48308800886312 /* LaunchScreen.storyboard in Resources */,
 				BDCA742B1D48308800886312 /* Assets.xcassets in Resources */,
+				BDCA74361D4833E600886312 /* Indian_Cat_pic.jpg in Resources */,
 				BDCA74291D48308800886312 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
